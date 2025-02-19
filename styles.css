@@ -1,0 +1,259 @@
+:root {
+    --font--nav:"Bebas Neue", serif;
+    --font-mei: "Roboto", serif;
+    --font-est: "Changa One", serif;
+    --font-isthis: "Quicksand", serif;
+}
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+ .photo {
+    background-image: url(Messi.webp);
+    background-attachment: scroll;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.photos {
+    background-image: url(qatar22.webp);
+    background-attachment: scroll;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+.photoss {
+    background-image: url(intermessi.webp);
+    background-attachment: scroll;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+
+
+
+.home {
+    font-family: var(--font--nav);
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+    margin-left: 300px;
+}
+
+.imga {
+    margin-left: 650px;
+}
+
+.isthis {
+    font-family: var(--font-isthis);
+    color: #74ACDF;
+    font-size: 50px;
+}
+
+.team {
+    background-color: #E284A5;
+}
+
+.sobre {
+    background-image: url(lionel-messi-net-worth.jpg    );
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size:contain;
+    background-position: top center;
+}
+
+.sobresobre {
+    background-color: #74ACDF;
+} 
+
+.qme {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: var(--font-isthis);
+}
+
+.text {
+    color: white;
+    background-color: #74ACDF;
+    border-radius:  25px;
+    text-align: center;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: var(--font-isthis);
+}
+
+.anchor {
+    background-color: #74ACDF;
+    margin-left: 850px;
+    margin-right: 850px;
+    border-radius: 30px;
+}
+
+.button {
+ color: white;
+ font-family: var(--font-est);
+ text-decoration: none;
+ font-size: 30px;
+ padding-left: 30px;
+} 
+
+.teams {
+    background-color: #004d98;
+}
+
+.escudo {
+    text-align: center;
+}
+
+.titles {
+    background-image: url(titles.webp);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: top center;
+}
+
+.tean {
+    background-color: #D80B0B;
+}
+
+.tropy {
+    background-image: url(titles.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.texto {
+    font-family: var(--font-mei);
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+.image {
+  background-color: #004d98;
+}
+
+
+.tex {
+    color: white;
+    background-color: #00498F;
+    border-radius:  25px;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    font-family: var(--font-isthis);;
+}
+
+
+.esta {
+    background-image: url(2dc1b151-21c6-4412-8858-b76773eecdbb.webp);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.tabela {
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: #00498F;
+    border-radius: 30px;
+}
+
+.titulo {
+    font-family: var(--font-est);
+    color: #74ACDF;
+    font-size: 25px;
+}
+
+.th {
+    color: white;
+    font-family: var(--font-isthis);
+}
+
+
+.photosss {
+    background-image: url(messigol2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.hitriamessi {
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: #00498F;
+    border-radius: 30px;
+}
+
+.histora {
+    background-image: url(criança\ anã\ 2.jpeg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+}
+
+.his {
+    color: white;
+    font-family: var(--font-est);
+    font-size: 20px;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
